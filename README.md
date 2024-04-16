@@ -13,7 +13,7 @@ This project relies on the following Python libraries:
 - **base64**: Required for data encoding/decoding.
 
 ## Installation
-1. Clone the repository: git clone https://github.com/your-username/aes-chacha20-encryption.git
+1. Clone the repository: git clone https://github.com/BlueGoat11/aes-chacha20-encryption.git
 2. Install the dependencies listed above.
 
 ## Usage
