@@ -22,7 +22,7 @@ Simply run the provided script, and the usage will become self-explanatory.
 ## Algorithm Explanations
 Explore detailed explanations of the AES and ChaCha20 algorithms, initialization vectors (IVs), padding, and other encryption-related terms. You can refer to the source code or run the file for more insights.
 
-## HTML CSS and JS Conversion
+## HTML CSS and JS Conversion (IN PROGRESS)
 Additionally, this project offers conversion of the Python code into HTML, CSS, and JavaScript for easy integration into web applications. 
 
 ## Contributing
